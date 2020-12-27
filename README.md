@@ -1,9 +1,9 @@
 
 <h1>Melih Isbilen</h1>
-Learning :<br>
- ~ Java
- ~ Python
- ~ Php
+<h2>Learning</h2> :<br>
+ ~ Java<br>
+ ~ Python<br>
+ ~ Php<br>
  ~ Html , css
 <center><img src="https://i.ibb.co/tsx0NkS/Backchannel-F-14-612585912.webp" alt="Backchannel-F-14-612585912" border="0"></center>
  <meta name="description" content="Developing and hacking">
