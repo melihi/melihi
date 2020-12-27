@@ -1,6 +1,6 @@
 
-<h1>Melih Isbilen</h1>
-<h2><a>Learning : </a></h2> <br>
+<h1><b>Melih Isbilen</b></h1>
+<h4><a>Learning : </a></h4> <br>
  ~ Java<br>
  ~ Python<br>
  ~ Php<br>
