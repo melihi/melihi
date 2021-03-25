@@ -14,6 +14,6 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=melihi&show_icons=true&theme=radical"><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=melihi&repo=Phanteon">
+<img src="https://archlinux.org/static/logos/archlinux-logo-black-scalable.f931920e6cdb.svg" height="20">
  
 </p>
